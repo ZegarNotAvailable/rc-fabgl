@@ -1,4 +1,9 @@
 # rc-fabgl
+
+## SMD version.
+![KiCAD view](https://github.com/ZegarNotAvailable/rc-fabgl/blob/main/SMD-version/rc-fabgl-SMD/img/rc-fabgl-12.jpg)
+
+
  FabGL terminal board for RC2014
 ![Assembled PD104](/img/assembled.jpg)
 
