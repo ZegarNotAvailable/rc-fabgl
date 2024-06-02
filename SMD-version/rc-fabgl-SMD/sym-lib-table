@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rc-fabgl")(type "Legacy")(uri "${KIPRJMOD}/rc-fabgl.lib")(options "")(descr ""))
+  (lib (name "rc-fabgl-rescue")(type "KiCad")(uri "${KIPRJMOD}/rc-fabgl-rescue.kicad_sym")(options "")(descr ""))
+)
