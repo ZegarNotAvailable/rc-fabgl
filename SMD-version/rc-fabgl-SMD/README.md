@@ -3,9 +3,13 @@
 ## SMD version.
 ![KiCAD view](https://github.com/ZegarNotAvailable/rc-fabgl/blob/main/SMD-version/rc-fabgl-SMD/img/rc-fabgl-12.jpg)
 
+![First message](https://github.com/ZegarNotAvailable/rc-fabgl/blob/main/SMD-version/rc-fabgl-SMD/img/RC-FABGL-FIRST.jpg)
 
- FabGL terminal board for RC2014
-![Assembled PD104](/img/assembled.jpg)
+![Serial port setting](https://github.com/ZegarNotAvailable/rc-fabgl/blob/main/SMD-version/rc-fabgl-SMD/img/SERIAL-PORT-SET.jpg)
+
+![SMD version assembled](https://github.com/ZegarNotAvailable/rc-fabgl/blob/main/SMD-version/rc-fabgl-SMD/img/RC-FABGL-CA80.jpg)
+
+![Miksid stand alone](https://github.com/ZegarNotAvailable/rc-fabgl/blob/main/SMD-version/rc-fabgl-SMD/img/MIKSID-STAND-ALONE.jpg)
 
 ## Overview
 This is my take on the FabGL dev kit, designed into the form factor of a RC2014 card with the intention of implementing a serial terminal.
